@@ -47,6 +47,3 @@ with open('yourfile.txt', 'wb') as f:
 </code></pre>
 </ol>
 
-<h2>License</h2>
-
-<p>This project is licensed under the <a href="https://opensource.org/licenses/MIT">MIT License</a>.</p>
